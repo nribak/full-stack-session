@@ -1,0 +1,18 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "Testing JWT through Express",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "author": "Nadav",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cookie-session": "^2.0.44",
+    "@types/express": "^4.17.14",
+    "@types/jsonwebtoken": "^8.5.9",
+    "cookie-session": "^2.0.0",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
